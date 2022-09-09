@@ -19,7 +19,7 @@
     padding-top: 2em;
 }
 #jumbotron1 {
-    background-image: url(https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cGFzdHJpZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60);
+    background-image: url(https://images.unsplash.com/photo-1567891026259-c133718572a4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNyb2lzc2FudHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60);
     height: 60vh;
     font-size: medium;
     font-family: lobetser;
@@ -28,7 +28,7 @@
     background-size: cover;
 }
 #jumbotron2 {
-    background-image: url(https://images.unsplash.com/photo-1607681034540-2c46cc71896d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNvZmZlZSUyMGJlYW5zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60) ;
+    background-image: url(https://images.unsplash.com/photo-1580933073521-dc49ac0d4e6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y29mZmVlJTIwYmVhbnN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60) ;
     height: 50vh;
     font-size: medium;
     font-family: lobester;
