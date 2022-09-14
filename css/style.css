@@ -7,10 +7,10 @@
     font-weight: bolder;
 }
 .nav-item a:hover {
-    background-color: brown;
+    background-color: blue;
 }
 .navbar-brand a:hover {
-    background-color: brown;
+    background-color: blue;
     color: red;
 }
 .container-fluid {
