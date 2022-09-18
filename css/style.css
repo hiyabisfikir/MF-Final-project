@@ -7,10 +7,10 @@
     font-weight: bolder;
 }
 .nav-item a:hover {
-    background-color: gray;
+    background-color: wheat;
 }
 .navbar-brand a:hover {
-    background-color: gray;
+    background-color: wheat;
     color: red;
 }
 .container-fluid {
